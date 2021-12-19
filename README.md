@@ -1,11 +1,17 @@
 ### Olá !!! Eu sou o Rubem 👋
-
+ <div align="center"> 
+<img src=	"https://pa1.narvii.com/7518/0e9a5ff7ab49ed220e20ca7a99055f73ed694392r1-500-281_hq.gif" target="_blank">
+  </div>
 <!--
 **RubemMartins/RubemMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+  <div> 
+<img src=	"https://pa1.narvii.com/7518/0e9a5ff7ab49ed220e20ca7a99055f73ed694392r1-500-281_hq.gif" target="_blank">
+  </div>
 Here are some ideas to get you started:
 -->
+
 - 👨‍🎓 Desenvolvedor Web Full Stack em formação
+
 - 💻🖥 Aprendendo desenvolvimento backend com Java , SpringBoot(Security, JUnit) , MySQL, Swegger e Deploy de aplicações via Heroku
 - 😄 Pronouns: Ele/He
 
