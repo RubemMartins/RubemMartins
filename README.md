@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Desenvolvedor Full Stack em formação
-- 🌱 Aprendendo desenvolvimento backend com Java , SpringBoot(Security, JUnit) , MySQL, Swegger e Deploy de aplicações via Heroku
+- 👨‍🎓 Desenvolvedor Web Full Stack em formação
+- 💻🖥 Aprendendo desenvolvimento backend com Java , SpringBoot(Security, JUnit) , MySQL, Swegger e Deploy de aplicações via Heroku
 - 😄 Pronouns: Ele/He
 
 <div align="center">
