@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 
 - 👨‍🎓 Desenvolvedor Web Full Stack em formação
 
-- 💻🖥 Aprendendo desenvolvimento backend com Java , SpringBoot(Security, JUnit) , MySQL, Swegger e Deploy de aplicações via Heroku
+- 💻🖥 Desenvolvedor backend usando Java , SpringBoot(Security, JUnit) , MySQL, Swegger e Deploy de aplicações via Heroku.
+- 💻🖥 Desenvolvedor front usando Angular , BootStrap ,HTML , CSS, JavaScript e TypeScript.
 - 😄 Pronouns: Ele/He
 
 <div align="center">
